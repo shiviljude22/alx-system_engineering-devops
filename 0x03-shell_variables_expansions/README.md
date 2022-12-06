@@ -1,1 +1,1 @@
-paths
+global_variables
