@@ -1,1 +1,1 @@
-hidethisword
+letter only
