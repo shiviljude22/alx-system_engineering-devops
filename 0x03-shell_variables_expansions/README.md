@@ -1,1 +1,1 @@
-global_variables
+local_variables
