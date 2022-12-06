@@ -1,1 +1,1 @@
-no_more_js
+directories
