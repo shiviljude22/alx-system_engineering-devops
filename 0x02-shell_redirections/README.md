@@ -1,1 +1,1 @@
-duplicate_last_line
+no_more_js
