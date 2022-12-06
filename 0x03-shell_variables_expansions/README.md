@@ -1,1 +1,1 @@
-script to creae alias
+binary_to_decimal
