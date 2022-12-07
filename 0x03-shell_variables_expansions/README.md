@@ -1,1 +1,1 @@
-True_knowledge
+divide_and_rule
