@@ -1,1 +1,1 @@
-create_global_variable
+True_knowledge
